@@ -43,15 +43,24 @@ AI is used for creative background generation and visual exploration. Final outp
 
 Public demos must avoid direct client-side Gemini/API key exposure and should use rate limiting or a fixed sample mode.
 
-## Public Materials To Add
+## Public Materials
 
-- Redacted architecture diagram.
-- Synthetic before/after asset flow.
-- Screenshots with placeholder products and partners.
-- Example generated background with deterministic final layout.
-- Short explanation of why generation and final composition are separate.
+- [Redacted architecture diagram](docs/ARCHITECTURE.md)
+- [Synthetic before/after asset flow](docs/ASSET_FLOW.md)
+- [Placeholder product and partner screenshots](docs/SYNTHETIC_SCREENS.md)
+- [Generated background and deterministic final layout examples](docs/COMPOSITION.md)
+- [Why generation and final composition are separate](docs/COMPOSITION.md#why-generation-and-final-composition-are-separate)
+
+## Synthetic Visuals
+
+These examples are intentionally synthetic and do not use private product assets, private partner assets, customer data, or production screenshots.
+
+![Synthetic project dashboard](assets/synthetic-project-dashboard.svg)
+
+![Generated background example](assets/generated-background-example.svg)
+
+![Deterministic final layout example](assets/deterministic-final-layout-example.svg)
 
 ## Suggested Public Copy
 
 > A redacted technical overview of a creative asset workflow that combines structured product/event data, server-side AI image generation, deterministic layout composition, and reviewable exports.
-

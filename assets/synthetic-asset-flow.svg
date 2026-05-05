@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Synthetic asset flow</title>
+  <desc id="desc">A synthetic before and after workflow diagram for creative assets.</desc>
+  <rect width="1200" height="520" fill="#f6f4ef"/>
+  <text x="60" y="70" fill="#17202a" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="800">Before</text>
+  <text x="650" y="70" fill="#17202a" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="800">After</text>
+  <rect x="60" y="105" width="430" height="310" rx="18" fill="#ffffff" stroke="#d8d2c6"/>
+  <text x="96" y="155" fill="#374151" font-family="Inter, Arial, sans-serif" font-size="19">Loose notes</text>
+  <text x="96" y="205" fill="#374151" font-family="Inter, Arial, sans-serif" font-size="19">Unstructured references</text>
+  <text x="96" y="255" fill="#374151" font-family="Inter, Arial, sans-serif" font-size="19">Manual resizing</text>
+  <text x="96" y="305" fill="#374151" font-family="Inter, Arial, sans-serif" font-size="19">Review over chat threads</text>
+  <text x="96" y="355" fill="#374151" font-family="Inter, Arial, sans-serif" font-size="19">Inconsistent final assets</text>
+  <path d="M525 260 L625 260" stroke="#17202a" stroke-width="4"/>
+  <path d="M625 260 L596 244 L596 276 Z" fill="#17202a"/>
+  <rect x="690" y="105" width="430" height="310" rx="18" fill="#ffffff" stroke="#d8d2c6"/>
+  <text x="726" y="155" fill="#374151" font-family="Inter, Arial, sans-serif" font-size="19">Structured project inputs</text>
+  <text x="726" y="205" fill="#374151" font-family="Inter, Arial, sans-serif" font-size="19">Server-side generation</text>
+  <text x="726" y="255" fill="#374151" font-family="Inter, Arial, sans-serif" font-size="19">Deterministic composition</text>
+  <text x="726" y="305" fill="#374151" font-family="Inter, Arial, sans-serif" font-size="19">Preset exports</text>
+  <text x="726" y="355" fill="#374151" font-family="Inter, Arial, sans-serif" font-size="19">Read-only review link</text>
+</svg>
